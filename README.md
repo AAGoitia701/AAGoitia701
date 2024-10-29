@@ -6,7 +6,8 @@ I’m a developer passionate about web development. Here you can find some of my
 
 - **Languages:** Python, JavaScript, PHP, C#.
 - **Frameworks:** .NET Core.
-- **Tools:** Git, Docker,
+- **Tools:** Git, Github.
+- **Other Technologies:** HTML, CSS. 
 - **Databases:** MySQL, MongoDB
 
 ## 🌱 I’m currently learning
