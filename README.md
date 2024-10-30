@@ -12,7 +12,7 @@ I’m a developer passionate about web development. Here you can find some of my
 
 ## 🌱 I’m currently learning
 
-- ASP.NET Core. 
+- APIs with .NET Core
 
 ## 📈 Featured Projects
 
