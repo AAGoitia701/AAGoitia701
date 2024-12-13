@@ -7,12 +7,12 @@ I’m a developer passionate about web development. Here you can find some of my
 - **Languages:** Python, JavaScript, PHP, C#.
 - **Frameworks:** .NET Core.
 - **Tools:** Git, Github.
-- **Other Technologies:** HTML, CSS, Identity(C#), JWT, Docker, FakeItEasy, Fluent Assertions
+- **Other Technologies:** HTML, CSS, Identity(C#), JWT, Xunit, FakeItEasy, Fluent Assertions
 - **Databases:** MySQL, MongoDB
 
 ## 🌱 I’m currently learning
 
-- Xunit
+- Docker and AWS.
 
 ## 📈 Featured Projects
 
@@ -24,5 +24,7 @@ I’m a developer passionate about web development. Here you can find some of my
 
 - aagoitia701@gmail.com
 
+## Check out my LinkedIn, where I'm posting my AWS projects!
+- www.linkedin.com/in/andreagoitíarodríguez
 
 Thanks for visiting my profile!
